@@ -18,8 +18,8 @@ WithYouWithMe: Data PathWay
 *  [Reporting with Power BI](https://drive.google.com/file/d/1h0CZADRMO18t49Yjj_rNFKDtVSv8ODH4/view?usp=drive_link) (WithYouWithMe, Dec 29, 2025)
 *  [Data Visualisation with Power BI](https://drive.google.com/file/d/1z-BQuXUdkcUQaRJu3B95bNw5FDoVuxsT/view?usp=drive_link) (WithYouWithMe, Jan 12, 2026)
 *  [Data Visualisation with Tableau](https://drive.google.com/file/d/1MpsMpFF7_N9x3HNDhp_FDqEarSx8O66y/view?usp=drive_link) (WithYouWithMe, Jan 18, 2026)
-*  [SQL for Data Analysis and Development](https://drive.google.com/file/d/1A_HPmMpLBPh4VO3mKnHMdGETwQVnmwFK/view?usp=drive_link)(WithYouWithMe, Feb 6, 2026)
-*  [Introduction to Data Engineering](https://drive.google.com/file/d/1cy1fHVm_dr2fCJwtuYh1si4epukVhf0H/view?usp=drive_link)(WithYouWithMe, Feb 24, 2026)
+*  [SQL for Data Analysis and Development](https://drive.google.com/file/d/1A_HPmMpLBPh4VO3mKnHMdGETwQVnmwFK/view?usp=drive_link)  (WithYouWithMe, Feb 6, 2026)
+*  [Introduction to Data Engineering](https://drive.google.com/file/d/1cy1fHVm_dr2fCJwtuYh1si4epukVhf0H/view?usp=drive_link)  (WithYouWithMe, Feb 24, 2026)
 
 IBM SkillBuild
 *  [AI Literacy](https://drive.google.com/file/d/1cdPZRzcBilNySJtElDdggFrvdEpDAzLP/view?usp=drive_link) (IBM SkillsBuild, Mar 11, 2026)
