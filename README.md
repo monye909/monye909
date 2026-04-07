@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 
 -->
 ##  Certifications
-HarvardX CS50P: CS50's Introduction to Programming with Python
-* I am currently learning.
+HarvardX CS50P: 
+* CS50's Introduction to Programming with Python (https://drive.google.com/file/d/11jJBQ3ekO_liwJ2mr_FjNKFwhF_OgXJ3/view?usp=sharing) (HarvardX edX, Apr 7, 2026)
+
 
 WithYouWithMe: Data PathWay
 *  [Data Foundations](https://drive.google.com/file/d/1jIy8tteTkf7Q0MK3t8QaP0yFJ8iqO43B/view?usp=drive_link) (WithYouWithMe, Dec 8, 2025)
