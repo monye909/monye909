@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 ##  Certifications
 HarvardX CS50P: 
-* CS50's Introduction to Programming with Python (https://drive.google.com/file/d/11jJBQ3ekO_liwJ2mr_FjNKFwhF_OgXJ3/view?usp=sharing) (HarvardX edX, Apr 7, 2026)
+* [CS50's Introduction to Programming with Python](https://drive.google.com/file/d/11jJBQ3ekO_liwJ2mr_FjNKFwhF_OgXJ3/view?usp=sharing) (HarvardX edX, Apr 7, 2026)
 
 
 WithYouWithMe: Data PathWay
