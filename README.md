@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Vertified Certificate
 * [CS50's Introduction to Programming with Python](https://drive.google.com/file/d/1HWH8jYw6xR2AKzKszCVwkwd5k88NZh3Q/view?usp=drive_link) (HarvardX edX, Apr 21, 2026)
 * Image of Vertified Certificate
-  ![The image](https://lh3.googleusercontent.com/d/1g58Er7Pw9DM4AXd3lYAtd_jZPYzU7GWB)
+* ![The image](https://lh3.googleusercontent.com/d/1g58Er7Pw9DM4AXd3lYAtd_jZPYzU7GWB)
 
 
 ## WithYouWithMe: Data PathWay
